@@ -17,7 +17,7 @@ namespace Git
 
             Console.WriteLine("Ебанул новую ветку");
 
-            Console.WriteLine("Нихуя");
+            Console.WriteLine("хуй");
         }
     }
 }
