@@ -16,6 +16,11 @@ namespace Git
 
 
             Console.WriteLine("Ебанул новую ветку");
+
+            for (int i = 0; i < 14; i++)
+            {
+
+            }
         }
     }
 }
