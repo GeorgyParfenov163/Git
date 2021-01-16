@@ -25,6 +25,8 @@ namespace Git
             }
 
             Console.WriteLine("Иди нахуй ебать");
+
+            Console.WriteLine("проверка пуш");
         }
     }
 }
