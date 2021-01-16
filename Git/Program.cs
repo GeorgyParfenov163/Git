@@ -10,9 +10,7 @@ namespace Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello!");
-
-            Console.WriteLine("revert");
+            Console.WriteLine("удалил все");
         }
     }
 }
