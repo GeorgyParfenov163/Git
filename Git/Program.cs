@@ -10,9 +10,7 @@ namespace Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Давай по новой все хуйня!");
-
-            Console.WriteLine("еще хуйня");
+            Console.WriteLine("Давай по новой все хуйня");
         }
     }
 }
